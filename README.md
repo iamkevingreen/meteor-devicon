@@ -1,13 +1,13 @@
 devicon V2 - Meteor Package
 ===============
 
-`meteor add iamkevingreen:devicon`
+`meteor add iamkevingreen:meteor-devicon`
 
 *This is a packed version of devicon*
 
 See the original [Devicon Repo](https://github.com/konpa/devicon)
 
-# 
+#
 
 devicon aims to gather all logos representing development languages and tools.
 
