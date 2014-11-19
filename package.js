@@ -1,8 +1,8 @@
 Package.describe({
   name: 'iamkevingreen:meteor-devicon',
-  summary: ' /* Fill me in! */ ',
+  summary: 'Devicon Font library',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/iamkevingreen/meteor-devicon'
 });
 
 Package.onUse(function(api) {
