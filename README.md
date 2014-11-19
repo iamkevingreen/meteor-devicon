@@ -1,6 +1,8 @@
 devicon V2 - Meteor Package
 ===============
 
+`meteor add iamkevingreen:devicon`
+
 *This is a packed version of devicon*
 
 See the original [Devicon Repo](https://github.com/konpa/devicon)
