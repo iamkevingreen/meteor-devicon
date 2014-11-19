@@ -7,11 +7,10 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.addFiles('iamkevingreen:meteor-devicon.js');
-});
-
-Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('iamkevingreen:meteor-devicon');
-  api.addFiles('iamkevingreen:meteor-devicon-tests.js');
+  api.addFiles('devicon/fonts/devicon.eot', 'client');
+  api.addFiles('devicon/fonts/devicon.svg', 'client');
+  api.addFiles('devicon/fonts/devicon.ttf', 'client');
+  api.addFiles('devicon/fonts/devicon.woff', 'client');
+  api.addFiles('devicon/devicon-colors.css', 'client');
+  api.addFiles('devicon/devicon.css', 'client');
 });
